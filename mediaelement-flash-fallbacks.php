@@ -4,7 +4,7 @@
 Plugin Name: MediaElement Flash Fallbacks
 Plugin URI:  https://wordpress.org/plugins/mediaelement-flash-fallbacks
 Description: Flash fallbacks for MediaElement.js, to support DASH and HLS for old browsers.
-Version:     0.1
+Version:     0.2
 Author:      Ian Dunn
 Author URI:  https://iandunn.name
 Text Domain: mediaelement-flash-fallbacks

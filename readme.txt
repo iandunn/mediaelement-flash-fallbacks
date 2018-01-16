@@ -4,7 +4,7 @@ Tags:              mediaelement,flash,fallback
 Requires at least: 4.9
 Requires PHP:      5.2
 Tested up to:      4.9
-Stable tag:        0.1
+Stable tag:        0.2
 License:           GPLv2
 
 Flash fallbacks for MediaElement.js, to support DASH and HLS for old browsers.
@@ -48,6 +48,9 @@ If you're not sure what functionality plugins are, there is a lot of information
 
 
 == Changelog ==
+
+= v0.2 (2018-01-16) =
+* [UPDATE] Add final build of MEjs 4.2.8 Flash files.
 
 = v0.1 (2018-01-16) =
 * [NEW] Initial release.
