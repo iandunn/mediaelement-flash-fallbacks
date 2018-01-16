@@ -169,7 +169,7 @@ class Test_MediaElement_Flash_Fallbacks extends WP_UnitTestCase {
 				'',
 			),
 
-	        // Parameters that equal `0` or '' will be removed, because of `add_query_arg()`.
+			// Parameters that equal `0` or '' will be removed, because of `add_query_arg()`.
 			array(
 				'?allowScriptAccess=true&autoplay=0',
 				'?allowScriptAccess=1',
